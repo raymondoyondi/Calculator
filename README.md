@@ -77,7 +77,7 @@ The calculator will then display the final result of the operation.
 
 ## Contributing
 
-We welcome contributions to make this calculator even better! If you have suggestions or find any bugs, please follow these steps:
+I welcome contributions to make this calculator even better! If you have suggestions or find any bugs, please follow these steps:
 
 1.  Fork the repository (`https://github.com/raymondoyondi/Calculator/fork`).
 2.  Create your feature branch (`git checkout -b feature/AmazingFeature`).
