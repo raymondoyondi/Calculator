@@ -4,7 +4,7 @@ A straightforward and robust calculator application built using Java. This proje
 
 ## Project Overview
 
-The **Java Arithmetic Calculator** is designed to handle the four fundamental mathematical operations: addition, subtraction, multiplication, and division. Whether implemented as a command-line tool or a simple Graphical User Interface (GUI), the focus is on performance, accuracy, and a clean, maintainable codebase written entirely in Java.
+The **Calculator** is designed to handle the four fundamental mathematical operations: addition, subtraction, multiplication, and division. Whether implemented as a command-line tool or a simple Graphical User Interface (GUI), the focus is on performance, accuracy, and a clean, maintainable codebase written entirely in Java.
 
 ## Key Features
 
