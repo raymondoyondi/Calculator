@@ -1,4 +1,4 @@
-# Java Arithmetic Calculator
+# Calculator
 
 A straightforward and robust calculator application built using Java. This project serves as a foundational example of Java programming applied to simple mathematical logic, providing users with the ability to perform core arithmetic operations quickly and reliably.
 
